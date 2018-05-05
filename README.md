@@ -1,2 +1,4 @@
 # thieunhi
-kể chuyện thiếu nhi
+my first repository on Github
+i love:coffee: :pizza:, and :dancer:.
+
